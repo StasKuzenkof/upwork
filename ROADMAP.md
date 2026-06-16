@@ -6,24 +6,23 @@ _Updated: 2026-06-16_
 
 ## Stages
 
-### Stage 0 — Infrastructure  🟡 in progress
+### Stage 0 — Infrastructure  🟢 done
 - [x] Project setup (repos, docs, knowledge base)
 - [x] Visibility model: project name public, work private
-- [ ] (later) Server migration
 
-### Stage 1 — Getting ready for Upwork  ⚪ not started
-- [ ] Define niche and positioning
-- [ ] Set up the Upwork profile
-- [ ] Define services and offers
-- [ ] Prepare proposal templates and portfolio
+### Stage 1 — Positioning & offers  🟡 in progress
+- [x] Define focus: AI engineering (Claude Code) + AI content
+- [x] Define services & productized packages
+- [x] Prepare profile positioning
+- [ ] Launch applications
 
-### Stage 2 — First orders  ⚪ not started
-- [ ] First proposals
-- [ ] First paid order
+### Stage 2 — First clients  ⚪ not started
+- [ ] First engagements
 - [ ] First reviews
+- [ ] Steady run-rate
 
 ### Stage 3 — Scaling  ⚪ not started
-- [ ] Repeat clients
+- [ ] Repeat clients / retainers
 - [ ] Steady order flow
 
 ## Legend
