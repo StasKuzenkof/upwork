@@ -1,13 +1,9 @@
-# Работа в Upwork · Upwork Work
+# Upwork Work · AI Content Production
 
-**AI-ассистированный контент-продакшен на бирже Upwork.**
-Систематический выход на стабильный доход через производство контента с помощью Claude (тексты, сценарии, видео-пайплайны, автоматизация).
+Building a steady income on Upwork through AI-assisted content production.
 
-> 🪟 Это **публичная витрина** проекта — здесь видны направление и прогресс.
-> 🔒 Рабочие материалы (наработки, шаблоны, код, данные клиентов) хранятся в приватном репозитории и наружу не публикуются.
+> 🪟 Public showcase: direction and progress.
+> 🔒 Working materials (templates, know-how, code) are kept private.
 
-## Прогресс
-Текущий статус и вехи — в [`ROADMAP.md`](ROADMAP.md).
-
----
-*Public showcase. Work-in-progress is tracked here; source materials are private.*
+## Progress
+See [`ROADMAP.md`](ROADMAP.md).

@@ -1,30 +1,30 @@
-# Roadmap — Работа в Upwork
+# Roadmap — Upwork Work
 
-Публичный прогресс проекта. Видны **вехи и статус**, без рабочих материалов и кода.
+Public progress: milestones and status. No working materials or code.
 
-_Обновлено: 2026-06-16_
+_Updated: 2026-06-16_
 
-## Этапы
+## Stages
 
-### Этап 0 — Инфраструктура  🟡 в работе
-- [x] Инициализация проекта (репозитории, документация, база знаний)
-- [x] Модель видимости: имя проекта публично, работа приватно
-- [ ] (позже) Переезд на сервер
+### Stage 0 — Infrastructure  🟡 in progress
+- [x] Project setup (repos, docs, knowledge base)
+- [x] Visibility model: project name public, work private
+- [ ] (later) Server migration
 
-### Этап 1 — Подготовка к выходу на Upwork  ⚪ не начат
-- [ ] Определить нишу и позиционирование
-- [ ] Оформить профиль Upwork
-- [ ] Сформировать список услуг и офферов
-- [ ] Подготовить шаблоны откликов и портфолио
+### Stage 1 — Getting ready for Upwork  ⚪ not started
+- [ ] Define niche and positioning
+- [ ] Set up the Upwork profile
+- [ ] Define services and offers
+- [ ] Prepare proposal templates and portfolio
 
-### Этап 2 — Первые заказы  ⚪ не начат
-- [ ] Первые отклики на заказы
-- [ ] Первый оплаченный заказ
-- [ ] Первые отзывы
+### Stage 2 — First orders  ⚪ not started
+- [ ] First proposals
+- [ ] First paid order
+- [ ] First reviews
 
-### Этап 3 — Масштабирование  ⚪ не начат
-- [ ] Повторяющиеся клиенты
-- [ ] Устойчивый поток заказов
+### Stage 3 — Scaling  ⚪ not started
+- [ ] Repeat clients
+- [ ] Steady order flow
 
-## Легенда
-🟢 готово · 🟡 в работе · ⚪ не начато
+## Legend
+🟢 done · 🟡 in progress · ⚪ not started
